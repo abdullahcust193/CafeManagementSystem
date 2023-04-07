@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven 3.6.3
+Built-By: chabd
+Build-Jdk: 17.0.4.1
+Class-Path: mysql-connector-java-8.0.30.jar protobuf-java-3.19.4.jar Abs
+ oluteLayout-SNAPSHOT.jar itextpdf-5.5.13.3.jar jasperreports-6.19.1.jar
+  commons-beanutils-1.9.4.jar commons-collections-3.2.2.jar commons-dige
+ ster-2.1.jar commons-logging-1.1.1.jar commons-collections4-4.2.jar ite
+ xt-2.1.7.js9.jar bcprov-jdk15on-1.68.jar jcommon-1.0.23.jar jfreechart-
+ 1.0.19.jar ecj-3.21.0.jar jackson-core-2.13.1.jar jackson-databind-2.13
+ .1.jar jackson-annotations-2.13.1.jar jackson-dataformat-xml-2.13.1.jar
+  stax2-api-4.2.1.jar woodstox-core-6.2.7.jar
+Main-Class: com.cmsproject.cmsystem
+
